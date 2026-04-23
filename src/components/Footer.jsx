@@ -33,12 +33,12 @@ export default function Footer() {
                     <div className="md:col-span-3">
                         <h4 className="font-mono text-[10px] font-bold uppercase tracking-widest text-ink/50 mb-6">Contatti</h4>
                         <ul className="space-y-4 font-sans text-sm text-ink/90 font-medium">
-                            <li><a href="mailto:info@federicarecupito.it" className="hover:text-coral transition-colors">info@federicarecupito.it</a></li>
+                            <li><a href="mailto:info@docfedericarecupito.com" className="hover:text-coral transition-colors">info@docfedericarecupito.com</a></li>
                             <li className="pt-4 flex items-center gap-4">
-                                <a href="#" className="w-10 h-10 rounded-full bg-white/60 flex items-center justify-center hover:bg-coral hover:text-white transition-all text-ink border border-white shadow-sm hover:shadow-md">
+                                <a href="https://www.instagram.com/docfedericarecupito/" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-white/60 flex items-center justify-center hover:bg-coral hover:text-white transition-all text-ink border border-white shadow-sm hover:shadow-md">
                                     <Instagram size={18} />
                                 </a>
-                                <a href="#" className="w-10 h-10 rounded-full bg-white/60 flex items-center justify-center hover:bg-coral hover:text-white transition-all text-ink border border-white shadow-sm hover:shadow-md">
+                                <a href="https://www.linkedin.com/company/docfedericarecupito" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-white/60 flex items-center justify-center hover:bg-coral hover:text-white transition-all text-ink border border-white shadow-sm hover:shadow-md">
                                     <Linkedin size={18} />
                                 </a>
                             </li>
